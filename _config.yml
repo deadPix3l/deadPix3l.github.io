@@ -1,14 +1,14 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://www.dyutibarma.github.io/monochrome"
+title: DeadPix3l | A blog about nothing. and code.
+description: "A place for rambling, code, and confusion. the perfect combination"
+url: "https://deadPix3l.github.io/"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "Skyler Curtis (@deadPix3l)"
+  email: "skylerr.curtis@gmail.com"
+  url: "https://deadPix3l.github.io"
 
 # Build settings
-baseurl: /monochrome # Change this to your relative path (ex: /blog/), or leave just a /
+#baseurl: /monochrome # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -37,3 +37,6 @@ version: "1.0.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+host: 0.0.0.0
+port: 8080
