@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects | deadPix3l
+title: Projects
 ---
 ## Projects
 These are the projects I am currently working on, brainstorming, or just want to showcase.
