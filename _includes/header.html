@@ -2,10 +2,11 @@
   <div class="inner w100 relative">
     <span class="f-left">  
       <a href="{{ site.baseurl }}/">
-        <h1>
+        <h1 style="color: #{{ page.color | default:000 }}">
           <span>dead</span>Pix3l
         </h1>
       </a>
+      {% if page.color %}<span id="color-display">(#{{ page.color | default: 000 }})</span>{% endif %}
     </span>
     <span id="nav-links" class="absolute right bottom">
       <!-- Nav pages -->
