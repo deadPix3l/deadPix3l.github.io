@@ -1,8 +1,12 @@
 ---
-title: Code Example
+title: Code Example | Monochrome
 description: This page contains examples for writing code in markdown.
-header: Code Syntax Example
+header: Code Syntax Example | Monochrome
 ---
+
+*NOTE: This post came default with the Monochrome theme. It may later be moved to somewhere more appropriate,  
+but for now i am keeping it here because it is legitimately useful to me, and hopefully others.*
+
 To insert highlight code inside of a post, it's enough to use some specific tags, has directly described into the [Jekyll documentation](http://jekyllrb.com/docs/templates/#code-snippet-highlighting). In this way the code will be included into a ``.highlight`` CSS class and will be highlight according to the [syntax.scss](https://github.com/mojombo/tpw/blob/master/css/syntax.css) file. This is the standard style adopted by **Github** to highlight the code. 
 
 This is a CSS example:
