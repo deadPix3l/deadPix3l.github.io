@@ -6,7 +6,7 @@ post all those rants I'm tired of repeating, and share my adventures (or lack th
 
 ### Pull requests
 Most unbecoming of a blog, I am open to suggestions, format changes, new features, and yes, even posts.
-If you have features, revisions to current posts, or new posts that you thing are interesting, 
+If you have features, revisions to current posts, or new posts that you think are interesting, 
 please submit a pull request. Please cite yourself as the author in any new posts.
 I dont expect anybody will actually do this (because why not make your own blog?), 
 but I will review all pull requests.
@@ -17,5 +17,5 @@ A few minor modifications have been made to the theme, including slimming down a
 and post-specific color changing headers, among other things. 
 
 
-##### License
+#### License
 Released under [MIT License](license.md).
