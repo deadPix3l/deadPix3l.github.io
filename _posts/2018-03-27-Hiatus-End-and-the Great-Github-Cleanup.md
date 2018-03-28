@@ -1,5 +1,5 @@
 ---
-color: #2aaa0a
+color: 2aaa0a
 ---
 
 Another post after a long, long hiatus. As far as I'm aware, nobody read these
