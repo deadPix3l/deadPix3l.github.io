@@ -4,6 +4,14 @@ layout: default
 <article id="post-page">
 	<h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	
+	<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="#{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+	
 	<div class="content">
 
 		{{ content }}
