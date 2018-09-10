@@ -1,6 +1,7 @@
 ---
 title: Reevaluating Trust in a Connected World
 color: ff3e00
+tags: privacy
 ---
 
 Recently, I received my Daskeyboard 5Q which is awesome. Already, the local

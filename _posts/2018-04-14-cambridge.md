@@ -1,6 +1,7 @@
 ---
 title: The Cambridge Analytical Hearings
 color: 1490d1
+tags: facebook rant controversy opinion
 ---
 
 >Before I start, I would like to say the opinons here are my own,

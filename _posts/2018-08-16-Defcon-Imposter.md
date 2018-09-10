@@ -1,5 +1,6 @@
 ---
 title: DC26 - a room full of hackers in which I don't belong
+tags: defcon
 ---
 
 DEFCON 26 is over! As much as I would have liked to write posts each day, both

@@ -1,6 +1,7 @@
 ---
 title: Broadcasting More Brainwaves for Public Consumption
 color: 963cf5
+tags: blog updates
 ---
 
 Maybe I got a little too excited with the weird and nondescriptive title! Oh Well, I like it!

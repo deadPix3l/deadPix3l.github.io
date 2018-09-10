@@ -1,5 +1,6 @@
 ---
 color: 2aaa0a
+tags: blog github PEP8
 ---
 
 Another post after a long, long hiatus. As far as I'm aware, nobody read these

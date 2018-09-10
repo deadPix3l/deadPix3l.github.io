@@ -1,6 +1,7 @@
 ---
 title: Help! my base64 lost its case!
 color: b030c0
+tags: walkthrough problem solution base64 data-recovery
 ---
 
 This is a problem I encountered today, and the solution I came up with. This is
