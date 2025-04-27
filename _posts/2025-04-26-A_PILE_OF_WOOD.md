@@ -1,7 +1,6 @@
 ---
 title: A Pile Of Wood (How not to make friends)
 description: a rant on higher dimensional thinkings isolating effect.
-date: 4/26/25
 ---
 
 Imagine a pile of wood.
